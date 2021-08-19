@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
+[![guionardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guionardo)](https://github.com/anuraghazra/github-readme-stats)
+
   
   ##
  
